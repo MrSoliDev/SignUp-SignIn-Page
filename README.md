@@ -15,8 +15,7 @@ This repository contains the code for a stylish and responsive sign-in/sign-up f
 
 ## 🚀 Getting Started
 1. Clone the repository:
-git clone https://github.com/MrSoliDev/SignUp-SignIn-Page.git
-Place the files in a folder.
+2. git clone https://github.com/MrSoliDev/SignUp-SignIn-Page.git Place the files in a folder.
 3. Open the `index.html` file in your browser and enjoy!
 
 ## 💻 Usage
